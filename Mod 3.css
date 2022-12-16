@@ -6,7 +6,7 @@ body {
 }
 h1 {
   margin: 15px;
-  text-align: center;
+ 
 padding-bottom: 30px;
   text-shadow: 2px 2px 6px black; 
   
@@ -54,7 +54,7 @@ p {
   box-shadow: 5px 5px 5px black;
   background-color: rgba(230, 157, 0, 0.459);
   width: 90%;
-  height: 150px;
+  height: 500px;
   padding: 20px ;
   margin-right: auto;
   margin-left: auto;
